@@ -1,9 +1,7 @@
 # PokerGame
 Allows user to play a game of machine poker, written in java
 
-===========================================================================
 Poker Programming Project
-===========================================================================
 
 For my Card class, I decided to add a createSuits() method and a createRanks()
 method, both of which make String representations of the suits and ranks. Then,
